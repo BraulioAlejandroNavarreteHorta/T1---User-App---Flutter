@@ -30,10 +30,3 @@ Esta es una aplicación simple de Flutter para crear, guardar y visualizar un pe
 ## Navegación
 
 La navegación entre pantallas se realiza utilizando el paquete `go_router`. La estructura de navegación permite pasar los datos ingresados en la pantalla de creación de perfil a la pantalla de perfil.
-
-## Instalación y Configuración
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio
